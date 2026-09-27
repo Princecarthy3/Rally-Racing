@@ -1,0 +1,36 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+Recordings/
+
+# IDE
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# OS / secrets
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+*secret*
+*credentials*
+
+# Unity package manager artifacts
+**/[Aa]ssets/AssetStoreTools*
+
